@@ -1,4 +1,5 @@
 ## Project
+{% includes.navigation %}
 
 {{ site.description }}
 
