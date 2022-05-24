@@ -1,6 +1,8 @@
+layout: default
+
 ## Building Projects with Markdown and Jekyll
 
-layout: default
+
 
 {% include navigation.html %}
 
