@@ -1,6 +1,7 @@
 ## Project
-{% includes.navigation %}
+{% include navigation.html %}
 
+## Description
 {{ site.description }}
 
 Hands-on demonstration of building websites with GitHub Pages and Jekyll.
