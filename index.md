@@ -1,4 +1,4 @@
-## Project
+## Building Projects with Markdown and Jekyll
 {% include navigation.html %}
 
 ## Description
