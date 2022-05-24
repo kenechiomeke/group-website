@@ -1,11 +1,8 @@
+---
 layout: default
 
-## Building Projects with Markdown and Jekyll
-
-
-
-{% include navigation.html %}
-
+title: Building Projects with Markdown and Jekyll
+---
 
 
 ## Description
