@@ -1,6 +1,7 @@
 ## Building Projects with Markdown and Jekyll
 {% include navigation.html %}
 
+layout: default
 
 ## Description
 {{ site.description }}
