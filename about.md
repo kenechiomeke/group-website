@@ -9,4 +9,3 @@
 Description of what project is about
 
 
-{% include footer.html %}
